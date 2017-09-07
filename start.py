@@ -1,7 +1,6 @@
 print('Hello world')
 print('Meanwhile dev2 added this LOC')
-print('Added in develop')
 print('Dev 2 went crazy again')
 print('Another merge in develop')
 print('Did something in feature2')
-print('I did something again')
+print('Mindblowing new logic')
